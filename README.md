@@ -25,13 +25,8 @@ Backend & Data Analytics Enthusiast
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischanurulhidayati/)
 
 ### My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6)](https://github.com/rschnrlhdyt/github-readme-stats)
-
-### Most Used Languages
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-58.26%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-3.05%25-yellow)
-![Java](https://img.shields.io/badge/Java-19.37%25-red)
-![Python](https://img.shields.io/badge/Python-0.23%25-blue)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rschnrlhdyt&locale=en&hide_title=false&layout=compact&card_width=465&langs_count=6&theme=dracula&hide_border=true&order=2&hide=css,scss,html"  alt="languages graph"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Rschnrlhdyt&show_icons=true&theme=dracula&hide_border=true"></img> 
 
 </details>
 
